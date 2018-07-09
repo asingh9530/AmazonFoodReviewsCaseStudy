@@ -11,3 +11,4 @@ This case Study Contains Implementation of Following Algorithms
 6. DBSCAN
 7. KMeans
 8. KNN
+9. Decision Tree
